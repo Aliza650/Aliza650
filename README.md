@@ -1,6 +1,6 @@
 # Hi, I'm Aliza! 👋
 
-I'm learning AI and passionate about coding and data science.  
+I'm learning data science.  
 Currently diving into Python and building cool projects.  
 
 🔭 Working on: AI projects and improving my Python skills  
